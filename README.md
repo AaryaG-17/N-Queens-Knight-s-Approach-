@@ -22,3 +22,4 @@ A square is valid if it is not in the same row, column, or diagonal as any previ
 10.	Move the first queen to the next square of the chessboard and repeat the entire procedure. 
 11.	Continue this process until the first queen has been placed on every square of the chessboard and all possibilities have been explored. 
 12.	Output all configurations stored in the result set (RS) and the total number of valid combinations.
+
