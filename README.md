@@ -3,11 +3,9 @@ An attempt to find another way to solve the N queens problem
 
 The N-Queen's problem:
 Place 'N' queens on a 'NxN' chessboard so that no queens are in a position to attack any other queen.
-That is, any queen on the chessboard should NOT be in the same row, same column, or same diagonal as of any other queens on the chessboard.
+That is, any queen on the chessboard should NOT be in the same row, same column, or same diagonal as of any other queens on the chessboard
 
-This problem is typically solved using backtracking (also called Depth-First-Search).
-
-Following is the algorithm of this approach:
+Following is the algorithm of **this** approach:
 
 1.	Consider an N × N chessboard. Let the board positions be represented by coordinates (row, column). 
 2.	Place the first queen on the first square of the chessboard. 
